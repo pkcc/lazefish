@@ -1,0 +1,10 @@
+{
+	"disableAutoUpdate": true,
+	"name": "lazefish",
+	"author": "lazebot",
+	"description": "Auto-fishes, auto-crafts bait, auto-dismantles fish for you",
+	"options": {
+		"niceName": "lazefish",
+		"guiName": "lazefish"
+	}
+}
