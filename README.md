@@ -17,5 +17,6 @@ Visit https://fish.lazebot.com to activate or extend your license. A three-day f
   Mode selection is saved automatically.
 - `fish save` - Save settings to disk.
 - `fish load` - Load settings from disk.
-- `license` - Check license status.
+- `fish license` - Check license status.
+
 
