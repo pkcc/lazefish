@@ -1,3 +1,7 @@
+# Lazefish
+
+Visit https://fish.lazebot.com to activate or extend your license. A three-day free trial is available; please make sure the trial meets your needs before purchasing the full version.
+
 # Commands
 
 - `fish` / `!fish` - Toggle fishing on or off.
@@ -14,3 +18,4 @@
 - `fish save` - Save settings to disk.
 - `fish load` - Load settings from disk.
 - `license` - Check license status.
+
