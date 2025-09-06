@@ -1,10 +1,10 @@
 {
     "files": {
-        "dist/README.md": "e0ac6879ed48a845fe863e85a497de0a507577eed6321fa3781bf6af048693f6",
-        "dist/index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
-        "dist/module.json": "3fe755b118525fd61b53b8c269b60ffd4e94adfb8ae2f76d92517278e0444002",
-        "dist/script.obf.jsc": "bc8b75004bc50580cd21a1116b0780d42edf4bc55a14ae623b7d24477ce5b593",
-        "dist/license/license.obf.jsc": "abb8ea4c69cee0df950c0ec1ef96cad0fee8091ab08345628e1ed05f5eafdca7"
+        "README.md": "e0ac6879ed48a845fe863e85a497de0a507577eed6321fa3781bf6af048693f6",
+        "index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
+        "module.json": "3fe755b118525fd61b53b8c269b60ffd4e94adfb8ae2f76d92517278e0444002",
+        "script.obf.jsc": "bc8b75004bc50580cd21a1116b0780d42edf4bc55a14ae623b7d24477ce5b593",
+        "license/license.obf.jsc": "abb8ea4c69cee0df950c0ec1ef96cad0fee8091ab08345628e1ed05f5eafdca7"
     },
     "defs": {
         "C_CANCEL_CONTRACT": 1,
