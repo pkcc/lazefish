@@ -1,10 +1,12 @@
 # Lazefish
 
+Lazefish is an automatic fishing assistant for TERA that casts the line, reels in catches and keeps your inventory tidy by crafting bait and dismantling fish.
+
 Visit https://fish.lazebot.com to activate or extend your license. A three-day free trial is available; please make sure the trial meets your needs before purchasing the full version.
 
-# Commands
+## Commands
 
-- `fish` / `!fish` - Toggle fishing on or off.
+- `fish` / `!fish` - Toggle fishing on or off. This command re-checks your license before toggling.
 - `fish dismantle` - Toggle auto dismantling of common fish.
 - `fish gold` - Toggle auto dismantling of gold fish.
 - `fish reset` - Reset bait, craft and dismantle options and disable fast mode.
@@ -18,5 +20,3 @@ Visit https://fish.lazebot.com to activate or extend your license. A three-day f
 - `fish save` - Save settings to disk.
 - `fish load` - Load settings from disk.
 - `fish license` - Check license status.
-
-
