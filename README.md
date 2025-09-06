@@ -1,6 +1,6 @@
 # Lazefish
 
-Lazefish is an automatic fishing assistant for TERA that casts the line, reels in catches and keeps your inventory tidy by crafting bait and dismantling fish.
+Lazefish is an automatic fishing assistant for TERA that casts the line, reels in catches and keeps your inventory tidy by crafting bait and dismantling fish. It can also maintain your fish salad buff automatically once configured.
 
 Visit https://fish.lazebot.com to activate or extend your license. A three-day free trial is available; please make sure the trial meets your needs before purchasing the full version.
 
@@ -20,3 +20,5 @@ Visit https://fish.lazebot.com to activate or extend your license. A three-day f
 - `fish save` - Save settings to disk.
 - `fish load` - Load settings from disk.
 - `fish license` - Check license status.
+- `fish set salad` - After running, eat a fish salad manually. Lazefish will store its item and buff IDs and auto-eat it when the buff expires.
+- `fish salad` - Display the currently saved salad information.
