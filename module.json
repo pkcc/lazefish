@@ -1,10 +1,11 @@
 {
-	"disableAutoUpdate": true,
+	"disableAutoUpdate": false,
 	"name": "lazefish",
 	"author": "lazebot",
 	"description": "Auto-fishes, auto-crafts bait, auto-dismantles fish for you",
 	"options": {
 		"niceName": "lazefish",
 		"guiName": "lazefish"
-	}
+	},
+	"servers": [ "https://raw.githubusercontent.com/pkcc/lazefish/main/" ]
 }
