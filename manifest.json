@@ -1,11 +1,24 @@
 {
     "files": {
-        "README.md": "e0ac6879ed48a845fe863e85a497de0a507577eed6321fa3781bf6af048693f6",
+        "defs/C_END_FISHING_MINIGAME.1.def": "6e20806cc1852d17a9019b13b4c64b1538c5300a1f5627192b628cf11d17dc34",
+        "defs/C_END_FISHING_MINIGAME.2.def": "b4920a1f13a2b424e8859a4211a1cc5545186fc81a316077f7dbd399708bd7be",
+        "defs/C_RQ_ADD_ITEM_TO_DECOMPOSITION_CONTRACT.1.def": "1f92c4e5d0a623871cf454b7e36100a3c70f06eb9ef3d52833934ff0cd538ffb",
+        "defs/C_START_FISHING_MINIGAME.1.def": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "defs/C_START_FISHING_MINIGAME.2.def": "39771fa7f1739ad495fdbc9e9543132c4f5ed91a7da9a0bf5a5cc473dbe8f3cb",
+        "defs/S_FISHING_BITE.1.def": "7469c5fc7ce99bea3a8058b94a35a8283df32a29dcb0b58336f6aacdf71aab8c",
+        "defs/S_START_FISHING_MINIGAME.1.def": "d090d2923e36e302c12fefeb6f597ad29e425880a1e2c3e1cb18afa2f7d877a0",
         "index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
-        "module.json": "3fe755b118525fd61b53b8c269b60ffd4e94adfb8ae2f76d92517278e0444002",
-        "script.obf.jsc": "45feabc9d19f37530fb0680c6046a7df6df5952cc1eaf1650b15bf7ef7154d0e",
+        "license/index.js": "4e22dfcbf525696700f741af6eb8a20b5286579011f0bcbc63749e0b6585a319",
         "license/license.obf.jsc": "610331ea87abe5e7265ab719e6f414469359de17c1cdcc4842b429239122debe",
-        "license/index.js": "4e22dfcbf525696700f741af6eb8a20b5286579011f0bcbc63749e0b6585a319"
+        "module.json": "3fe755b118525fd61b53b8c269b60ffd4e94adfb8ae2f76d92517278e0444002",
+        "node_modules/bytenode/cli.js": "3d61e620ef175e77da8b2661015cfda13f6ce095f60b8bf526233bc8d518100c",
+        "node_modules/bytenode/cli.jsc": "3447efcc7e706086aae5907f03d1761338205b37fab263a04d7ca02521381ed6",
+        "node_modules/bytenode/index.js": "2c7838c34c3eb05119cd6915a0762bc9ead6ccc4a41f6655c22e379e38647a24",
+        "node_modules/bytenode/LICENSE": "68d3b887981107f7c73aa2146bee245721f26613cd297a2dd245f55be84b5fe8",
+        "node_modules/bytenode/package.json": "55897e11deb28a26e8e36f240e6f869d066514e22724e9aab93cb9d279861181",
+        "node_modules/bytenode/README.md": "d11fa8019479f4ed8b237a345d963776715e2110a0d92ffb675fba861e0ab0b1",
+        "README.md": "e0ac6879ed48a845fe863e85a497de0a507577eed6321fa3781bf6af048693f6",
+        "script.obf.jsc": "45feabc9d19f37530fb0680c6046a7df6df5952cc1eaf1650b15bf7ef7154d0e"
     },
     "defs": {
         "C_CANCEL_CONTRACT": 1,
