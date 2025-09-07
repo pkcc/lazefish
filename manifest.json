@@ -9,7 +9,6 @@
         "defs/S_START_FISHING_MINIGAME.1.def": "d090d2923e36e302c12fefeb6f597ad29e425880a1e2c3e1cb18afa2f7d877a0",
         "index.js": "10ed97d63d3c9129ba902e3d30da14bb2915a6408ebb3aea83c31147d544301a",
         "license/index.js": "4e22dfcbf525696700f741af6eb8a20b5286579011f0bcbc63749e0b6585a319",
-        "license/license.obf.js": "1f550206c79d713c24821d83e6de01a987505099bf332547529ebc9f815e1428",
         "license/license.obf.jsc": "16e375bb39ccb971534e6dc42fb499fd28e91c9a0b024827d8c16db86a337440",
         "module.json": "3fe755b118525fd61b53b8c269b60ffd4e94adfb8ae2f76d92517278e0444002",
         "node_modules/bytenode/cli.js": "3d61e620ef175e77da8b2661015cfda13f6ce095f60b8bf526233bc8d518100c",
@@ -19,7 +18,6 @@
         "node_modules/bytenode/package.json": "55897e11deb28a26e8e36f240e6f869d066514e22724e9aab93cb9d279861181",
         "node_modules/bytenode/README.md": "d11fa8019479f4ed8b237a345d963776715e2110a0d92ffb675fba861e0ab0b1",
         "README.md": "e0ac6879ed48a845fe863e85a497de0a507577eed6321fa3781bf6af048693f6",
-        "script.obf.js": "d84afe52d7eff91369460bba1f3c0d2219b0a9a0a690c026b788bfdf07d048c2",
         "script.obf.jsc": "cb8e1c62e1c25e9f410a43b6def1c0ca4b6a82c9123640a5f611ec2ae784d6cb"
     },
     "defs": {
